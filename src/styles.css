@@ -1,0 +1,43 @@
+
+body {
+  background-color:slategrey;
+  display: flex;
+  min-height: 100vh;
+  /*flex-direction: column;*/
+  font-family: 'Caveat', cursive;
+
+}
+.btn-large{background-color: #1d4234
+}
+.btn-large:hover{background-color: #1d4234
+}
+
+
+.btn{
+  background-color: var(--main-bg-color);
+}
+.btn:hover {
+  background-color: #1d4234
+}
+.textCOLOR{
+  color: var(--main-bg-color);
+
+}
+.backgroundFell{
+  background-color: var(--main-bg-color);
+}
+
+#fellX{
+  fill: var(--main-bg-color);
+}
+:root {
+
+  /*--main-bg-color: #b71c1c   ;*/
+  /*--main-bg-color: #d50000   ;*/
+  --main-bg-color: #004d40 ;
+  /*--main-bg-color: #1b5e20 ;*/
+  /*--main-bg-color: #e65100 ;*/
+  /*--main-bg-color: #dd2c00 ;*/
+  /*--main-bg-color: #37474f ;*/
+  /*--main-bg-color: #e65100;*/
+}
