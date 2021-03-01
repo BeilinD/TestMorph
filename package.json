@@ -32,7 +32,7 @@
     "rxjs": "~6.4.0",
     "svg-filter": "^1.2.1",
     "svg.js": "latest",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "three-gltf-loader": "^1.111.0",
     "three-js": "^79.0.0",
     "three-obj-loader": "^1.1.3",
